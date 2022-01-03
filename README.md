@@ -1,5 +1,7 @@
 # Flow
 
+[![Swift](https://github.com/alexito4/Flow/actions/workflows/swift.yml/badge.svg)](https://github.com/alexito4/Flow/actions/workflows/swift.yml)
+
 🌊 Let your code *flow*.
 
 This library provides a bunch of extension methods for a better fluent syntax in Swift. This style is very useful for some operations that benefit from being able to be chained (composed) together.
