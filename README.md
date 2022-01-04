@@ -183,4 +183,4 @@ extension YourType: Flowable {}
 
 # Author
 
-Alejandro Martinez | http://alejandromp.com | [@alexito4](https://twitter.com/alexito4)
+Alejandro Martinez | https://alejandromp.com | [@alexito4](https://twitter.com/alexito4)
