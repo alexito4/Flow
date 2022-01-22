@@ -1,6 +1,6 @@
 # Flow
 
-[![CI](https://github.com/alexito4/Flow/actions/workflows/swift.yml/badge.svg)](https://github.com/alexito4/Flow/actions/workflows/swift.yml)
+[![Build & Test](https://github.com/alexito4/Flow/actions/workflows/ci.yml/badge.svg)](https://github.com/alexito4/Flow/actions/workflows/ci.yml)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Falexito4%2FFlow%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/alexito4/Flow)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Falexito4%2FFlow%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/alexito4/Flow)
 
